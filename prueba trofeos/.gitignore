@@ -1,0 +1,8 @@
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+
+# Ignorar carpetas de Unity que no son necesarias en Git
+Library/
+Temp/
+Logs/
+obj/
